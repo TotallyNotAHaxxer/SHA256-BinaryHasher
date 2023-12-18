@@ -1,2 +1,17 @@
-# SHA256-BinaryHasher
-Simple program I used a long time ago to hash binary applications using SHA-256. This is used for binary integrity and other systems where the hash is stored on the client side or even on the server side.
+[Example](https://github.com/TotallyNotAHaxxer/SHA256-BinaryHasher/blob/main/Capture.PNG?raw=true)
+
+# Binary Hashing
+
+A simple binary hasher I made that can take about any binary file and computer a SHA256 hash for it. 
+
+# Purpose
+
+The purpose of this program is to generate hashes for programs that use client-client or internal binary integrity systems but also use client-server binary integrity systems. 
+
+# Setup
+
+Just run Visual Studio, load the SLN file, set the properties to be C++20, Release, X86 and you are good to go!
+
+# Calling the application
+
+Call the exe in a new cmd window followed by the location of the application you want to hash 
