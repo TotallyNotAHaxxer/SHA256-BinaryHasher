@@ -1,4 +1,8 @@
-[Example](https://github.com/TotallyNotAHaxxer/SHA256-BinaryHasher/blob/main/Capture.PNG?raw=true)
+<p align="center">
+  <img src= "https://github.com/TotallyNotAHaxxer/SHA256-BinaryHasher/blob/main/Capture.PNG?raw=true" width="900" title="WOOP!">
+</p>
+
+
 
 # Binary Hashing
 
